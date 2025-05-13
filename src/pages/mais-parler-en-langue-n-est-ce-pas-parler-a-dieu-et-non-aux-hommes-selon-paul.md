@@ -6,7 +6,7 @@ order: 9
 listedInHome: true
 ---
 
-Lisons **1 Corinthiens 14:2**
+Lisons **1 Corinthiens 14:2** :
 
 > « En effet, celui qui parle en langue ne parle pas aux hommes, mais à Dieu, car personne ne le comprend, et c’est en esprit qu’il dit des mystères. »
 
@@ -16,11 +16,14 @@ Lisons néanmoins les versets suivants **1 Corinthiens 14:3-4 :**
 
 > « Celui qui prophétise, au contraire, parle aux hommes, les édifie, les exhorte, les console. Celui qui parle en langue s'édifie lui-même; celui qui prophétise édifie l'Eglise. »
 
-Paul explique ici que contrairement à celui qui parle en langue, celui qui prophétise édifie l'église car ceux qui l'entendent sont en mesure de comprendre son discours et sont donc exhortés, consolés, édifiés. **La compréhension du message transmit est donc nécessaire afin d'être édifié.**
+Paul explique ici que contrairement à celui qui parle en langue, celui qui prophétise édifie l'église car ceux qui l'entendent sont en mesure de comprendre son discours et sont donc exhortés, consolés, édifiés. Nous pouvons donc comprendre ici **un enseignement <u>très important</u>** de l'apôtre Paul : 
 
-L'apôtre continue en déclarant que celui qui parle en langue cependant s'édifie lui-même. **Cela signifie donc qu'il est en mesure de comprendre ce qu'il dit !**
+1. Il est **impossible d'être édifié spirituellement** par un discours ou un message **si on ne le comprend pas.**
+2. L'édification spirituelle n'est donc **pas une question de ressenti** mais de **compréhension intelligente** de ce que Dieu nous communique.
 
-On ne peut pas être édifié, selon Paul, par quelque chose que l'on ne comprend pas. Dans le cas contraire, pourquoi demande-t-il de traduire pour que l'Église soit édifiée ? Si la compréhension n'était pas indispensable à l'édification, l'Église serait elle même édifiée sans avoir besoin de comprendre quoi que ce soit de ce qui est dit "en langue".
+L'apôtre continue en déclarant que celui qui parle en langue cependant s'édifie lui-même. **Cela signifie donc très clairement qu'il est en mesure de comprendre ce qu'il dit !**
+
+Si on pouvait être édifié par un discours qu’on ne comprend pas, pourquoi l’apôtre Paul demande-t-il de traduire pour que l'Église soit édifiée ? Si la compréhension n'était pas indispensable à l'édification, l'Église serait édifiée sans avoir besoin de comprendre quoi que ce soit de ce qui est dit "en langue".
 
 Le verset 5 confirme encore que la notion d'édification est indissociable de la compréhension de ce qui est dit : 
 
