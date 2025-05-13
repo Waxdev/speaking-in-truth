@@ -10,7 +10,7 @@ Lisons **1 Corinthiens 14:2‭-‬3‭, ‬27-28 :**
 
 > « En effet, celui qui parle en langue **ne parle pas aux hommes, mais à Dieu**, car personne ne le comprend, et c’est en esprit qu’il dit des mystères. Celui qui prophétise, au contraire, parle aux hommes, les édifie, les exhorte, les console. En est-il qui parlent en langue, que deux ou trois au plus parlent, chacun à son tour, et que quelqu'un interprète; s’il n’y a point d’interprète, qu’on se taise dans l’Église, **et qu’on parle à soi-même et à Dieu.** »
 
-Selon l'apôtre Paul, il est inutile pour l'église que quelqu'un se mette à parler une langue inconnue car cela n'édifie personne. Il n'est pas dit, comme certains le pensent, que celui qui parle en langues ne s'adresse pas aux hommes, mais s'adresse uniquement à Dieu. En prenant soin de comprendre le verset 2 avec le verset 28, la Parole de Dieu déclare ici que si personne n'est en mesure d'interpréter, cette personne devrait **simplement se taire dans l'Église!** 
+Selon l'apôtre Paul, il est inutile pour l'église que quelqu'un se mette à parler une langue inconnue car cela n'édifie personne. En prenant soin de comprendre le verset 2 avec le verset 28, la Parole de Dieu déclare ici que si personne n'est en mesure d'interpréter, cette personne devrait **simplement se taire dans l'église !** 
 
 En d'autres termes tout ce qui n'édifie pas l'église est inutile et n'y a pas sa place ! Paul se prendra même en exemple pour illustrer ce point. 
 
