@@ -12,7 +12,7 @@ Lisons **1 Corinthiens 14:2‭-‬3‭, ‬27-28 :**
 
 Selon l'apôtre Paul, il est inutile pour l'église que quelqu'un se mette à parler une langue inconnue car cela n'édifie personne. En prenant soin de comprendre le verset 2 avec le verset 28, la Parole de Dieu déclare ici que si personne n'est en mesure d'interpréter, cette personne devrait **simplement se taire dans l'église !** 
 
-En d'autres termes tout ce qui n'édifie pas l'église est inutile et n'y a pas sa place ! Paul se prendra même en exemple pour illustrer ce point. 
+En d'autres termes, tout ce qui n'édifie pas l'église est inutile et n'y a pas sa place ! Paul se prendra même en exemple pour illustrer ce point. 
 
 Lisons **1 Corinthiens 14:6‭-‬9, ‬18‭-‬19 :**
 

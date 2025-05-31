@@ -14,6 +14,6 @@ De manière encore plus intéressante, le chapitre de **1 Corinthiens 12** se te
 
 > « Aspirez aux dons les meilleurs. Et je vais encore vous montrer une voie par excellence. » **_(verset 31)_**  
 
-Cette voie par excellence est présentée par Paul **au chapitre 13**, comme celle qui surpasse tout, y compris le don des langues et celui de prophétie ! Quelle est donc cette chose encore plus excellente que tous les dons de l'Esprit cités précédemment selon Paul ? **C'est l'amour agape !**
+Cette voie par excellence est présentée par Paul **au chapitre 13**, comme celle qui surpasse tout, y compris le don des langues et celui de prophétie ! Quelle est donc cette chose encore plus excellente que tous les dons de l'Esprit cités précédemment selon Paul ? **C'est l'amour désintéressé !**
 
 > « L'amour ne meurt jamais. Les prophéties disparaîtront, les langues cesseront, la connaissance disparaîtra. Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'amour. » <br> <small>- 1 Corinthiens 13:8,13</small>

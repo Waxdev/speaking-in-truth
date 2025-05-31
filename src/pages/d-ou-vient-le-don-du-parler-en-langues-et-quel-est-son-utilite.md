@@ -10,7 +10,7 @@ Lisons **Genèse 9:1,7,11 :**
 
 > « Dieu bénit Noé et ses fils, et leur dit : Soyez féconds, multipliez, et remplissez la terre. Et vous, soyez féconds et multipliez, répandez-vous sur la terre et multipliez sur elle. J'établis mon alliance avec vous: aucune chair ne sera plus exterminée par les eaux du déluge, et il n'y aura plus de déluge pour détruire la terre. »
 
-Après le déluge, Dieu bénit Noé et sa famille afin qu'ils soient féconds, se multiplient et remplissent la Terre. Il leur demanda de se répandre sur la Terre et de la remplir. Dieu fit aussi une promesse, à savoir qu'il ne détruirait plus jamais la Terre par les eaux.
+Après le déluge, Dieu bénit Noé et sa famille afin qu'ils soient féconds, se multiplient et remplissent la Terre. Dieu fit aussi une promesse, à savoir qu'il ne détruirait plus jamais la Terre par les eaux.
 
 Néanmoins, quelques générations plus tard, les hommes choisirent de se rebeller contre Dieu en décidant d'aller à l'encontre de ses instructions et de se lancer dans une construction audacieuse et blasphématoire selon certains théologiens. C'est alors que Dieu confondit leur langage.
 
@@ -20,7 +20,7 @@ Lisons **Genèse 11:1-9 :**
 
 La mission donnée par Jésus à ses disciples était de porter l'évangile au monde entier :
 
-> « Allez, faites **de toutes les nations** des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit » <br><small>- Mattieu 28:19</small>
+> « Allez, faites **de toutes les nations** des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit » <br><small>- Matthieu 28:19</small>
 
 Mais cette tache était clairement impossible à réaliser à taille humaine ! C'est la raison pour laquelle le Saint-Esprit leur fut envoyé par Jésus. Il devait leur accorder la force et la sagesse dont ils auraient besoin dans leur mission, mais aussi les équiper de dons divers pour faire faces aux différents problèmes qui feraient obstacle à la propagation de l'évangile et à l'édification de l'église, y compris celui de la barrière des langues qui n'en était pas des moindres !
 
