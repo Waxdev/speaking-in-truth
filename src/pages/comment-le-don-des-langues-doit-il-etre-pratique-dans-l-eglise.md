@@ -2,7 +2,7 @@
 title: Comment le don des langues doit-il être pratiqué dans l'église ?
 description: loram ipsum
 date: "2017-08-10"
-order: 8
+order: 9
 listedInHome: true
 ---
 

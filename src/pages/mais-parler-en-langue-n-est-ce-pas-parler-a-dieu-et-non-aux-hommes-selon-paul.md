@@ -2,7 +2,7 @@
 title: Mais parler en langues n'est-ce pas parler à Dieu et non aux hommes selon Paul ? Doit-on même comprendre ce que l'on dit ?
 description: loram ipsum
 date: "2017-08-10"
-order: 9
+order: 10
 listedInHome: true
 ---
 
@@ -37,4 +37,4 @@ Lisons **1 Corinthiens 14:2-4,27-28 :**
 
 > « En effet, celui qui parle en langue ne parle pas aux hommes, mais à Dieu, car personne ne le comprend, et c’est en esprit qu’il dit des mystères. Celui qui prophétise, au contraire, parle aux hommes, les édifie, les exhorte, les console. Celui qui parle en langue **s'édifie lui-même;** celui qui prophétise édifie l'Eglise. En est-il qui parlent en langue, que deux ou trois au plus parlent, chacun à son tour, et que quelqu'un interprète; s'il n'y a point d'interprète, qu'on se taise dans l'Eglise, et **qu'on parle à soi-même et à Dieu.** »
 
-Paul ne dit donc pas ici que le don des langues  sert uniquement à s'adresser à Dieu, et est donc incompréhensible aux hommes, comme certains le croient. D'après ces textes, celui qui exerce le don des langues biblique est en mesure de comprendre ce qu'il dit, puisqu'il s'édifie lui-même. Les autres cependant, ne peuvent en être édifiés sans que l'on interprète, afin que ses paroles mystérieuses leur soient compréhensibles également.
+Paul ne dit donc pas ici que le don des langues  sert uniquement à s'adresser à Dieu, et est donc incompréhensible aux hommes, comme certains le croient. D'après ces textes, celui qui exerce le don des langues biblique est en mesure de comprendre ce qu'il dit, puisqu'il s'édifie lui-même. Les autres cependant, ne peuvent en être édifiés sans que l'on interprète, afin que ces paroles "mystérieuses" pour eux, leur soient compréhensibles également.

@@ -2,7 +2,7 @@
 title: Existe-t-il des exemples bibliques de la manifestation du don des langues ?
 description: loram ipsum
 date: "2017-08-21"
-order: 5
+order: 6
 listedInHome: true
 ---
 
@@ -34,3 +34,5 @@ La Bible donne même le nom des pays ou régions des langues concernées dans le
 > « Parthes, Mèdes, Élamites, ceux qui habitent la Mésopotamie, la Judée, la Cappadoce, le Pont, l’Asie, la Phrygie, la Pamphylie, l’Égypte, le territoire de la Libye voisine de Cyrène, et ceux qui sont venus de Rome, Juifs et prosélytes, Crétois et Arabes, comment les entendons-nous parler dans nos langues des merveilles de Dieu? »
 
 Grâce à ce témoignage puissant, un grand nombre de ces juifs venus adorer à Jérusalem pour les fêtes annuelles se convertirent et purent rapporter dans leur pays la bonne nouvelle de l'évangile qu'ils avaient reçu.
+
+Les exemples bibliques de manifestation du don des langues ne font donc visiblement pas mention d'une "glossolalie" non compréhensible comme on le voit souvent aujourd'hui, mais d'une manifestation du Saint-Esprit dans des langues existantes et compréhensibles par les hommes. Nous reviendrons sur ce point au cours de notre étude.

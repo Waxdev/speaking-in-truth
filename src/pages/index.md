@@ -5,7 +5,7 @@ date: "2017-08-21"
 listedInHome: false
 ---
 
-Le "parler en langues" est une pratique très répandue dans les églises chrétiennes aujourd'hui. L'apôtre Paul traite de ce sujet et aussi plus généralement des dons de l'esprit dans les chapitres 12, 13 et 14 de sa première épître à l'église de Corinthe.
+Le "parler en langues", appelé "glossolalie" par certains, est une pratique très répandue dans les églises chrétiennes aujourd'hui. L'apôtre Paul traite de ce sujet et aussi plus généralement des dons de l'esprit dans les chapitres 12, 13 et 14 de sa première épître à l'église de Corinthe.
 Le chapitre 12 commence de la manière suivante :
 
 > « Pour ce qui concerne les dons spirituels, je ne veux pas, frères, que vous soyez dans l’ignorance. » <br /><small>1 Corinthiens 12:1</small>

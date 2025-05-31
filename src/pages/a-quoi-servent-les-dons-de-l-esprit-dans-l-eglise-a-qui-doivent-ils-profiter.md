@@ -2,7 +2,7 @@
 title: A quoi servent les dons de l'Esprit dans l'église ? A qui doivent-ils profiter ?
 description: loram ipsum
 date: "2017-08-10"
-order: 7
+order: 8
 listedInHome: true
 ---
 

@@ -2,13 +2,13 @@
 title: Conclusion
 description: loram ipsum
 date: "2017-08-10"
-order: 13
+order: 15
 listedInHome: true
 ---
 
 Paul traite du sujet des dons spirituels et particulièrement du parler en langues dans 1 Corinthiens 12 à 14 car il y avait une grande confusion à ce sujet dans l'église de Corinthe. Ce sujet n'est traité nulle part ailleurs dans ses épîtres aux différentes églises qu'il avait implanté.
 
-La ville de Corinthe, étant **une grande ville portuaire commerçante** et qui plus est la **capitale de la province de la Grèce**, sa population était **très cosmopolite**. Les croyants qui rejoignaient l'église de Corinthe provenait donc d'une multitude de nationalités, cultures et langues différentes.
+La ville de Corinthe, étant **une grande ville portuaire commerçante**, et qui plus est la **capitale de la province de la Grèce**. Sa population était **très cosmopolite**. Les croyants qui rejoignaient l'église de Corinthe provenait donc d'une multitude de nationalités, cultures et langues différentes.
 
 Tous semblaient apparemment vouloir parler en langues à Corinthe et c'est visiblement à ce problème que les chapitres 12, 13 et 14 de la première épître de Paul au Corinthiens s'adressent. Il écrivait d'ailleurs au **verset 10 du premier chapitre** :
 
