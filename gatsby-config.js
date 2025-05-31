@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Le parler en langues - Qu'est-ce que c'est ?`,
-    description: 'Le "parler en langues" est une pratique très répandue dans les églises chrétiennes aujourd\'hui. Ce sujet demeure de ce fait l\'un des plus débattus et des plus complexes pour la plupart des chrétiens aujourd\'hui.'
+    description: 'Le "parler en langues", appelé "glossolalie" par certains, est une pratique très répandue dans les églises chrétiennes aujourd\'hui. C\'est également l\'un des sujets les plus complexes et les plus débattus.'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
