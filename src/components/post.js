@@ -1,6 +1,7 @@
 import glamorous from 'glamorous'
 import Link from 'gatsby-link'
 import { rhythm } from '../utils/typography'
+import "./post.css"
 
 const Heading = glamorous.h1(({ theme: { mediaQueries } }) => ({
   maxWidth: 770,
