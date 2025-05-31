@@ -48,6 +48,9 @@ const MenuNav = ({ isMenuOpen, items, closeMenu }) => (
     <StyledLink onClick={closeMenu} to='/a-propos'>
       À propos
     </StyledLink>
+    <StyledLink onClick={closeMenu} to='/autres-etudes'>
+      Autres études
+    </StyledLink>
     <StyledMailTo href='mailto:parlerenlangues@gmail.com'>
       Contact
     </StyledMailTo>
