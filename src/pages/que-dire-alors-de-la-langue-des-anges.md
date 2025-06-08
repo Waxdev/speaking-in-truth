@@ -18,9 +18,8 @@ L'apôtre Paul explique simplement dans ce texte que même s'il lui était possi
 
 D'ailleurs, dans le chapitre précédent et le chapitre suivant, lorsque Paul parle du don de parler en langues, le mot "langue" est parfois au singulier dans le cas d'un exemple particulier, mais il est généralement au pluriel lorsqu'il fait référence au fait même de parler en langues pour un ou plusieurs individus :
 
-> « Et Dieu a établi dans l’Église premièrement des apôtres, secondement des prophètes, troisièmement des docteurs, ensuite ceux qui ont le don des miracles, puis ceux qui ont les dons de guérir, de secourir, de gouverner, de parler **diverses langues**. 
->
-> Tous ont-ils le don des miracles? Tous ont-ils le don des guérisons? Tous **parlent-ils** **en** <u>**langues**</u>? Tous interprètent-ils? »<br /> <small>- 1 Corinthiens 12:28, 30 LSG</small>
+> « Et Dieu a établi dans l’Église premièrement des apôtres, secondement des prophètes, troisièmement des docteurs, ensuite ceux qui ont le don des miracles, puis ceux qui ont les dons de guérir, de secourir, de gouverner, de parler **diverses langues**.<br>
+Tous ont-ils le don des miracles? Tous ont-ils le don des guérisons? Tous **parlent-ils** **en** <u>**langues**</u>? Tous interprètent-ils? »<br /> <small>- 1 Corinthiens 12:28, 30 LSG</small>
 
 *(Voir aussi 1 Corinthiens 12:10)*
 
