@@ -20,4 +20,4 @@ Les dons nous permettent donc de nous entre-aider afin d'avancer ensemble, sacha
 
 Paul parlera d'ailleurs de certains dons de l'Esprit de la manière suivante dans **Éphésiens 4:7,11,12** :
 
-> « Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ. Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs, **pour le perfectionnement des saints en vue de l'oeuvre du ministère et de l'édification du corps de Christ,** » _(voir également les versets 13 à 15)_
+> « Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ. Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs, **pour le perfectionnement des saints en vue de l'oeuvre du ministère et de l'édification du corps de Christ** » _(voir également les versets 13 à 15)_
