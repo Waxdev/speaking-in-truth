@@ -8,7 +8,7 @@ listedInHome: true
 
 Beaucoup pensent aujourd'hui que le parler en langue est **un don indispensable** pour communiquer avec Dieu de manière personnelle et secrète, ou pour rendre **"d'excellentes actions de grâces" (1 Corinthiens 14:17)**. Mais est-ce vraiment ce que la Parole de Dieu nous enseigne ?
 
-### La prière secrète
+### 1. La prière secrète
 
 Selon l'apôtre Paul, nous pouvons prier secrètement et discrètement très simplement, en parlant à Dieu dans notre esprit partout où nous sommes (au travail, dans la rue, etc...) car Dieu nous entend :
 
@@ -33,7 +33,7 @@ Il leur dit: Quand vous priez, dites: Père! Que ton nom soit sanctifié; que to
 
 Nous avons également un bel exemple puissant d’une prière collective des disciples à haute voix, pour contrer les plans et les attaques de Satan, dans **Actes 4:23-31**, sans se soucier visiblement qu’il les entende ou pas ! Notre Dieu est tout-puissant ! N’ayons pas peur de l’ennemi !
 
-### Les actions de grâce
+### 2. Les actions de grâce
 
 En ce qui concerne le fait de rendre des actions de grâce, nul part l'apôtre Paul ne déclare qu'il est **indispensable de parler en langues** pour rendre d'excellentes actions de grâces. Le livre des Psaumes en est un excellent exemple d'ailleurs. Il est rempli de chants dont les paroles représentent parfois des louanges, des actions de grâces et de remerciements (Psaume 138, etc...), des prières de repentances, de confessions, ou des appels à la délivrance; et tout cela **en langue hébraïque !** Ces cantiques et ces psaumes étaient chantés par les Israélites dans des occasions diverses, comme lors de la pâque par exemple (Marc 14:26).
 
