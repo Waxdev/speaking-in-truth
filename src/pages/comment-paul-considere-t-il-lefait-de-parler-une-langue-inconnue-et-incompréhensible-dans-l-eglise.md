@@ -2,7 +2,7 @@
 title: Comment Paul considère-t-il le fait de parler une langue inconnue et incompréhensible dans l'église ?
 description: loram ipsum
 date: "2017-08-10"
-order: 12
+order: 9
 listedInHome: true
 ---
 
